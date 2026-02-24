@@ -8,7 +8,7 @@ import (
 
 // PiEdge - النسخة الخفيفة من سرب Pi للأجهزة الضعيفة
 func main() {
-	fmt.Println("🥧 Pi-Edge Core v1.0 - Sovereign AI (Go Version)")
+	fmt.Println("⚙️ Pi-Edge Core v1.0 - Sovereign AI (Go Version)")
 	fmt.Println("-----------------------------------------------")
 
 	target := "127.0.0.1" // الهدف الافتراضي للفحص
